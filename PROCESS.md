@@ -39,3 +39,13 @@
 > - Come prepared to Sprint Planning meetings with questions and updates
 > - Use Discord for quick clarifications to avoid blocking progress
 > - Document decisions and action items during planning sessions
+
+---
+
+## 📦 Delivering
+
+- **Branching:** Each team member will be working on their on branch of GitHub for clear seperation of work
+- **Communication:** Teamates will share branch updates and pull requests in Discord to keep everything clear and aligned
+- **Discussion:** Discussions will be handled during the Sprint Planning Google Meet or asyncronously through Discord
+- **Backlog Updates:** Backlog updates will happen continously through the Sprint as progress is made and ideas are shared
+- **Transparency:** All commits, decisions and discussions are communicated clearly and openly to make sure team is functioning smoothly
