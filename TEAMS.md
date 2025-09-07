@@ -1,26 +1,34 @@
-1932 Stout Scarabs:
+# 🏆 1932 Stout Scarabs
 
-    Anthony Viglielmo
+## 👥 Team Members
 
-    Roman Lewis
+- **Anthony Viglielmo**
+- **Roman Lewis** 
+- **Gregorio Olivares**
 
-    Gregorio Olivares
+---
 
-Sprint 9:
+## 📅 Sprint Assignments
 
-    Scrum Master: Roman
+### Sprint 9
+| Role | Assignee |
+|------|----------|
+| 🎯 **Scrum Master** | Roman |
+| 📋 **Product Owner** | Greg |
 
-    Product Owner: Greg
+### Sprint 10
+| Role | Assignee |
+|------|----------|
+| 🎯 **Scrum Master** | Cam |
+| 📋 **Product Owner** | Anthony |
 
-Sprint 10:
+### Sprint 11
+| Role | Assignee |
+|------|----------|
+| 🎯 **Scrum Master** | Teddy |
+| 📋 **Product Owner** | Cameron |
 
-    Scrum Master: Cam
+---
 
-    Product Owner: Anthony
-
-Sprint 11:
-
-    Scrum Master: Teddy
-
-    Product Owner: Cameron 
+> 💡 **Note**: This document tracks team composition and sprint role assignments for the 1932 Stout Scarabs project.
 
