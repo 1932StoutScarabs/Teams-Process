@@ -6,3 +6,7 @@
 - This meeting will server to help us plan our story points and direciton for our specific feature.
 - If we have any confusion, we will ask for clarification through our discord server, that has all of our 
 team members available.
+
+## Methods of Interaction
+- All primary method of communication between the team will be through Discord
+- Dissemination of tasks from John will occur via Google Meets during Sprint Planning
