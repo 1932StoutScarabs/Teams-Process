@@ -1,25 +1,26 @@
 1932 Stout Scarabs:
 
-Anthony Viglielmo
+    Anthony Viglielmo
 
-Roman Lewis
+    Roman Lewis
 
+    Gregorio Olivares
 
 Sprint 9:
 
-Scrum Master: Roman
+    Scrum Master: Roman
 
-Product Owner: Greg
+    Product Owner: Greg
 
 Sprint 10:
 
-Scrum Master: Cam
+    Scrum Master: Cam
 
-Product Owner: Anthony
+    Product Owner: Anthony
 
 Sprint 11:
 
-Scrum Master: Teddy
+    Scrum Master: Teddy
 
-Product Owner: Cameron
+    Product Owner: Cameron 
 
