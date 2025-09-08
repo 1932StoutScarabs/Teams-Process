@@ -5,6 +5,8 @@
 - **Anthony Viglielmo**
 - **Roman Lewis** 
 - **Gregorio Olivares**
+- **Cameron Wiegel**
+- **Theodore Kwasigroch**
 
 ---
 
