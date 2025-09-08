@@ -32,5 +32,3 @@
 
 ---
 
-> 💡 **Note**: This document tracks team composition and sprint role assignments for the 1932 Stout Scarabs project.
-
