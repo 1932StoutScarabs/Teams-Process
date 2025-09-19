@@ -39,6 +39,8 @@
 > - Come prepared to Sprint Planning meetings with questions and updates
 > - Use Discord for quick clarifications to avoid blocking progress
 > - Document decisions and action items during planning sessions
+> - Push items deemed too complicated or unnecessary to next sprint/ push to backlog.
+> - If needed to, stop feature all together if too complex or requires more time than currently allotted.
 
 ---
 
@@ -49,3 +51,5 @@
 - **Discussion:** Discussions will be handled during the Sprint Planning Google Meet or asyncronously through Discord
 - **Backlog Updates:** Backlog updates will happen continously through the Sprint as progress is made and ideas are shared
 - **Transparency:** All commits, decisions and discussions are communicated clearly and openly to make sure team is functioning smoothly
+
+## 
