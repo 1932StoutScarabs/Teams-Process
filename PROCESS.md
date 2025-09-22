@@ -41,6 +41,7 @@
 > - Document decisions and action items during planning sessions
 > - Push items deemed too complicated or unnecessary to next sprint/ push to backlog.
 > - If needed to, stop feature all together if too complex or requires more time than currently allotted.
+> - Ensure commits to GitHub relate to their relevant story
 
 ---
 
